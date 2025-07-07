@@ -14,6 +14,11 @@ A C++ based command-line booking system for sports facilities like Cricket Turf,
 - STL (map, vector, string)
 - CLI-based UI
 
+## 📖 How it Works
+- User logs in with username & password
+- Views available facilities and slots
+- Books a slot and gets a UPI prompt
+
 ## 🏁 How to Run
 ```bash
 g++ main.cpp -o club
